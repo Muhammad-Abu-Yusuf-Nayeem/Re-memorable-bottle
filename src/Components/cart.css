@@ -5,3 +5,7 @@
   border-radius: 10%;
   margin-right: 10px;
 }
+.cart-container{
+  display: grid;  
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+}

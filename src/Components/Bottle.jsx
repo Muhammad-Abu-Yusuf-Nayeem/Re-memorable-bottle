@@ -18,7 +18,7 @@ const Bottle = ({ bottle, handleAddToCart }) => {
         style={{
           height: "200px",
           width: "150px",
-          objectFit: "cover",
+          objectFit: "cover", 
         }}
       />
       <p>Price: {price}</p>
